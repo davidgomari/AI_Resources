@@ -13,7 +13,7 @@
 
 **Prob & Stat:** Probability and Statistics
  
-## Courses
+## University/ Institutes Courses
 
 | **Topic** | **Institute** | **Name** | **Year(s)** | **Youtube Link** | **Course Website** |
 |:---------:|:-------------:|:--------:|:-----------:|:----------------:|:------------------:|
@@ -66,7 +66,6 @@
 | Prob & Stat | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
 
 
-
 ## Tech Companies Courses
 | **Company** | **Course Name(s)** | **Links** | 
 |:-----------:|:---------------:|:---------:|
@@ -80,7 +79,7 @@
 | Hugging Face | NLP, Deep RL, Audio, Open-Source AI Cookbook, and ML for Games | [link](https://huggingface.co/learn) |
 
 
-## Bootcamp
+## Bootcamps/Workshops
 | **Bootcamp Name(s)** | **Community** | **Year(s)**| **Links** | 
 |:---------:|:--------------------:|:-------------:|:---------:|
 | ML Zoomcamp | [DataTalksClub](https://datatalks.club/) | 2022 | [Github Repo](https://github.com/DataTalksClub/machine-learning-zoomcamp), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR) |
