@@ -11,8 +11,6 @@
 
 **NN:** Neural Networks.
 
-**Prob & Stat:** Probability and Statistics
-
 **DS**: Data Science
  
 ## University/ Institutes Courses
@@ -71,7 +69,10 @@
 | Finance | Python: Mathematics and Stock/Forex/Futures indicators | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX) |
 | Finance | Big Data Analytics & Algorithmic Stock Trading / Backtesting  | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq) |
 | Robotics | Robotics and the Raspberry Pi | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeJlgD1RX9_49tMLUxvIxF4) |
-| Prob & Stat | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
+| Math | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
+| Math | Essence of linear algebra | 3Blue1Brown | 2016 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Math | The essence of calculus | 3Blue1Brown | 2017 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+| Math | Differential equations | 3Blue1Brown | 2021 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 | Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) |
 
 
@@ -104,3 +105,11 @@
 | **Project Name** | **Description**| **Links** | 
 |:----------------:|:--------------:|:---------:|
 | Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
+
+## Paper Explained
+| **Name** | **Source** | **Link** |
+|:--------:|:----------:|:--------:|
+| Paper Explained | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7) |
+| NLP | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu) |
+| RL | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt) |
+| DL Architecture | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
