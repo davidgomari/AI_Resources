@@ -22,6 +22,7 @@
 | ML | DeepLearning.Ai | ML Ops | ~ | [link](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) | ~ |
 | ML | Stanford | CS224W: Machine Learning with Graphs | ~ | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | ~ |
 | ML | Caltech | Learning From Data | 2012 | [link](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | [link](https://home.work.caltech.edu/telecourse.html) |
+| ML | Cornell | Applied ML | 2020 | [link](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) | [link](https://canvas.cornell.edu/courses/33314) |
 | DL | Stanford | CS230: DL | 2018 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) | ~ |
 | DL | New York University | DL | 2020-2021 | with Yann LeCun: [2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq), and [2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | ~ |
 | DL | Fast.AI | Practical DL for coders | ~ | [part 1: DL](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU), and [part 2: Stable Diffusion and DL](https://youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) | ~ |
@@ -34,9 +35,10 @@
 | NLP | UMass | CS685: Advanced NLP | 2023 | [link](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) | ~ |
 | NLP | University of Texas at Austin | NLP | 2023 | [link](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) | ~ |
 | RL | Stanford | CS234: RL | 2019 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | ~ |
-| RL | DeepMind x UCL | RL | 2018-2021 | [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb), and [2021 (youtube playlist name is wrong)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | ~ |
-| CV | Stanford | CS231N: DL for CV | ~ | [link](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | ~ |
+| RL | DeepMind x UCL | RL | 2015-2021 | [2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb), and [2021 (youtube playlist name is wrong)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | ~ |
+| CV | Stanford | CS231N: DL for CV | 2017 | [link](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | ~ |
 | CV | Michigan Online | DL for CV | ~ | [link](https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | ~ |
+| CV | University of Central Florida | CV | 2014 | [link](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) | ~ |
 | Other | Stanford | CS25 Transformers United | ~ | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | ~ |
 
 ## YouTube Channels Playlists
@@ -47,7 +49,9 @@
 | ML | Machine Learning with Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) |
 | ML | Scikit-learn Machine Learning with Python and SKlearn | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3) |
 | ML | ML in Python with scikit-learn | Data School | 2015 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) |
+| ML | Intro to Machine Learning and Statistical Pattern Classification Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3) |
 | DL | Neural Networks: Zero to Hero | Andrej Karpathy | 2022 | [link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
+| DL | Intro to Deep Learning and Generative Models Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
 | DL | Neural Networks/ Deep Learning | StatQuest with Josh Starmer | 2022 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) |
 | CV | OpenCV with Python for Image and Video Analysis | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq) |
 | CV | OpenCV Course - Full Tutorial with Python | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=oXlwWbU8l2o) |
@@ -55,7 +59,7 @@
 | NLP | NLTK with Python 3 for Natural Language Processing | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) |
 | Python | Python for Beginners | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=eWRfhZUzrAc) |
 | Python | PyTorch Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) |
-| Python | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=V_xro1bcAuA) |
+| Python | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [Youtube](https://www.youtube.com/watch?v=V_xro1bcAuA), [Course Materials](https://www.learnpytorch.io/) |
 | Python | TensorFlow 2.0 Beginner Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) |
 | Python | TensorFlow 2.0 Complete Course | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
 | Python | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
