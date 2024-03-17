@@ -12,6 +12,8 @@
 **NN:** Neural Networks.
 
 **Prob & Stat:** Probability and Statistics
+
+**DS**: Data Science
  
 ## University/ Institutes Courses
 
@@ -46,16 +48,22 @@
 | ML | Linear Regression and Linear Models | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUIzaEkCLIUxQFjPIlapw8nU) |
 | ML | Machine Learning with Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) |
 | ML | Scikit-learn Machine Learning with Python and SKlearn | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3) |
+| ML | ML in Python with scikit-learn | Data School | 2015 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) |
 | DL | Neural Networks: Zero to Hero | Andrej Karpathy | 2022 | [link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
 | DL | Neural Networks/ Deep Learning | StatQuest with Josh Starmer | 2022 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) |
 | CV | OpenCV with Python for Image and Video Analysis | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq) |
+| CV | OpenCV Course - Full Tutorial with Python | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=oXlwWbU8l2o) |
 | CV | Computer Vision in Practice | Roboflow | 2023 | [link](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
 | NLP | NLTK with Python 3 for Natural Language Processing | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) |
+| Python | Python for Beginners | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=eWRfhZUzrAc) |
 | Python | PyTorch Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) |
+| Python | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=V_xro1bcAuA) |
 | Python | TensorFlow 2.0 Beginner Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) |
+| Python | TensorFlow 2.0 Complete Course | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
 | Python | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
 | Python | Matplotlib Tutorial Series - Graphing in Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
 | Python | Practical Flask Web Development Tutorials | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) |
+| Python | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) |
 | Finance | Python Programming for Finance | Sentdex | 2018 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ) |
 | Finance | Python for Finance with Zipline and Quantopian | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN) |
 | Finance | Customizing Matplotlib Graphs and Charts | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ) |
@@ -64,6 +72,7 @@
 | Finance | Big Data Analytics & Algorithmic Stock Trading / Backtesting  | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq) |
 | Robotics | Robotics and the Raspberry Pi | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeJlgD1RX9_49tMLUxvIxF4) |
 | Prob & Stat | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
+| Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) |
 
 
 ## Tech Companies Courses
@@ -80,10 +89,18 @@
 
 
 ## Bootcamps/Workshops
-| **Bootcamp Name(s)** | **Community** | **Year(s)**| **Links** | 
-|:---------:|:--------------------:|:-------------:|:---------:|
-| ML Zoomcamp | [DataTalksClub](https://datatalks.club/) | 2022 | [Github Repo](https://github.com/DataTalksClub/machine-learning-zoomcamp), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR) |
-| Data Engineering Zoomcamp | DataTalksClub | 2022-2023 | [Github Repo](https://github.com/DataTalksClub/data-engineering-zoomcamp), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb) |
-| MLOps Zoomcamp | DataTalksClub | 2022-2023 | [Github Repo](https://github.com/DataTalksClub/mlops-zoomcamp/), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) |
-| Deep Learning Course | [Full Stack Deep Learning](https://fullstackdeeplearning.com/) | 2018-2022 | [webPage](https://fullstackdeeplearning.com/course/), and YouTube Playlist: [2021](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv), [2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) |
-| LLM Bootcamp | Full Stack Deep Learning | 2023 | [YouTube](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ), and [WebPage](https://fullstackdeeplearning.com/llm-bootcamp/) |
+| **Bootcamp Name(s)** | **From** | **Year(s)**| **Links** | **Description** |
+|:---------:|:--------------------:|:-------------:|:-----:|:---------------:|
+| ML Zoomcamp | [DataTalksClub](https://datatalks.club/) | 2022 | [Github Repo](https://github.com/DataTalksClub/machine-learning-zoomcamp), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR) | ~ |
+| Data Engineering Zoomcamp | DataTalksClub | 2022-2023 | [Github Repo](https://github.com/DataTalksClub/data-engineering-zoomcamp), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb) | ~ |
+| MLOps Zoomcamp | DataTalksClub | 2022-2023 | [Github Repo](https://github.com/DataTalksClub/mlops-zoomcamp/), and [Youtube Playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) | ~ |
+| Deep Learning Course | [Full Stack Deep Learning](https://fullstackdeeplearning.com/) | 2018-2022 | [webPage](https://fullstackdeeplearning.com/course/), and YouTube Playlist: [2021](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv), [2022](https://www.youtube.com/playlist?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) | ~ |
+| LLM Bootcamp | Full Stack Deep Learning | 2023 | [YouTube](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ), and [WebPage](https://fullstackdeeplearning.com/llm-bootcamp/) | ~ |
+| Data Analyst Bootcamp | [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) | 2020-2024 | [Youtube Playlist](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF), and [FreeCodeCamp Single Video](https://www.youtube.com/watch?v=PSNXoAs2FtQ) | Python, Pandas, Tableau, SQL, PowerBI, and Excell |
+| Data Analysis with Python | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=r-uOLxNrNk8) | Data Analyst, Jupyter Notebooks, NumPy, Pandas, Data Cleaning, Reading Data, and Python | 
+| Python for Data Science | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=LHBE6Q9XlzI) | Learn Python, Pandas, NumPy, Matplotlib |
+
+## Hands-on-Projects for Portfolio
+| **Project Name** | **Description**| **Links** | 
+|:----------------:|:--------------:|:---------:|
+| Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
