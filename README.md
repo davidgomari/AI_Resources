@@ -89,6 +89,8 @@
 | Python | Python for Beginners | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=eWRfhZUzrAc) |
 | Python | Intermediate Python Tutorials | Tech With Tim | 2018 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv) |
 | Python | Expert Python Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) |
+| Python | Python Intermediate Tutorial | NeuralNine | 2019 | [link](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1) |
+| Python | Python Advanced Tutorials | NeuralNine | 2021 | [link](https://www.youtube.com/playlist?list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc) |
 | PyTorch | PyTorch Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) |
 | PyTorch | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [Youtube](https://www.youtube.com/watch?v=V_xro1bcAuA), [Course Materials](https://www.learnpytorch.io/) |
 | PyTorch | PyTorchZeroToAll (in English) | Sung Kim | 2017 | [link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) |
@@ -114,6 +116,8 @@
 | Django | Django Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) |
 | Django | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
 | Django | Python Django Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9) |
+| Web Scraping | Python Selenium Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ) |
+| Web Scraping | Beautiful Soup 4 Tutorial | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK) |
 | Finance | Python Programming for Finance | Sentdex | 2018 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ) |
 | Finance | Python for Finance with Zipline and Quantopian | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN) |
 | Finance | Customizing Matplotlib Graphs and Charts | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ) |
@@ -121,6 +125,7 @@
 | Finance | Python: Mathematics and Stock/Forex/Futures indicators | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX) |
 | Finance | Big Data Analytics & Algorithmic Stock Trading / Backtesting  | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq) |
 | Finance | Trading - Advanced Order Types with Coinbase | deeplizard | 2017 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xr17PqeytCKiCD-TJj89rII) |
+| Finance | Python For Finance | NeuralNine | 2020 | [link](https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH) |
 | Robotics | Robotics and the Raspberry Pi | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeJlgD1RX9_49tMLUxvIxF4) |
 | Math | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
 | Math | Essence of linear algebra | 3Blue1Brown | 2016 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
