@@ -13,7 +13,7 @@
 
 **DS**: Data Science
 
-**SDC**: Self_Driving Car
+**SDC**: Self-Driving Car
  
 ## University/ Institutes Courses
 
@@ -25,6 +25,7 @@
 | ML | Stanford | CS224W: Machine Learning with Graphs | ~ | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | ~ |
 | ML | Caltech | Learning From Data | 2012 | [link](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | [link](https://home.work.caltech.edu/telecourse.html) |
 | ML | Cornell | Applied ML | 2020 | [link](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83) | [link](https://canvas.cornell.edu/courses/33314) |
+| ML | UC Berkeley | CS294: Deep Unsupervised Learning | 2020 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [link](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 | DL | Stanford | CS230: DL | 2018 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) | ~ |
 | DL | New York University | DL | 2020-2021 | with Yann LeCun: [2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq), and [2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | ~ |
 | DL | Fast.AI | Practical DL for coders | ~ | [part 1: DL](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU), and [part 2: Stable Diffusion and DL](https://youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) | ~ |
@@ -54,7 +55,6 @@
 | Math | Stanford | EE364A Convex Optimization | 2024 | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) | [link](https://web.stanford.edu/class/ee364a/index.html) |
 | Math | University of Tübingen | Math for Deep Learning | 2022 | [link](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) | [link](https://uni-tuebingen.de/de/241678) |
 | Other | Stanford | CS25 Transformers United | ~ | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | ~ |
-| Other | UC Berkeley | CS294: Deep Unsupervised Learning | 2020 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [link](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 
 ## YouTube Channels Playlists
 | **Topic** | **Playlist Name** | **Channel Name** | **Year** | **Youtube Link** | 
@@ -112,7 +112,7 @@
 | Microsoft | Web Dev for beginners | [link](https://microsoft.github.io/Web-Dev-For-Beginners/#/), and [github repo](https://github.com/microsoft/Web-Dev-For-Beginners?WT.mc_id=academic-0000-abartolo) |
 | Microsoft | IOT for beginners | [link](https://microsoft.github.io/IoT-For-Beginners/#/), and [github repo](https://github.com/microsoft/IoT-For-Beginners) |
 | Kaggle | Intro to Programming, Python, Intro to ML, Pandas, Intermediate ML, Data Visualization, Feature Engineering, Intro to SQL, Advanced SQL, intro to DL, CV, Time Series, Data Cleaning, Intro to AI Ethics, Geospatial Analysis, ML Explainability, and Intro to Game AI and RL | [link](https://www.kaggle.com/learn) |
-| Hugging Face | NLP, Deep RL, Audio, Open-Source AI Cookbook, and ML for Games | [link](https://huggingface.co/learn) |
+| Hugging Face | **NLP**, Deep RL, Audio, Open-Source AI Cookbook, and ML for Games | [link](https://huggingface.co/learn) |
 
 
 ## Bootcamps/Workshops
@@ -130,7 +130,7 @@
 | LangChain & Vector Databases in Production | ActiveLoop | 2023 | [link](https://learn.activeloop.ai/courses/langchain) | Learn how to use LangChain and Vector DBs in Production |
 | Building Systems with the ChatGPT API | DeepLearning.Ai | 2023 | [link](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) | you will learn how to automate complex workflows using chain calls to a large language model |
 
-## MOOCS
+## MOOCs
 | **Name** | **Platform** | **Description** | **Link** |
 |:--------:|:------------:|:---------------:|---------:|
 | Machine Learning Specialization | Coursera | #BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng | [link](https://www.coursera.org/specializations/machine-learning-introduction) |
@@ -141,21 +141,21 @@
 | Deep Learning Specialization | Coursera | Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques! | [link](https://www.coursera.org/specializations/deep-learning) |
 | Natural Language Processing Specialization | Coursera | Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October '21 | [link](https://www.coursera.org/specializations/natural-language-processing) |
 | Generative AI with Large Language Models | Coursera | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications | [link](https://www.coursera.org/learn/generative-ai-with-llms) |
+<!--|  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
-|  | Coursera |  | [link]() |
-|  | Coursera |  | [link]() |
+|  | Coursera |  | [link]() |-->
 
 ## Hands-on-Projects for Portfolio
 | **Project Name** | **Description**| **Links** | 
 |:----------------:|:--------------:|:---------:|
 | Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
 
-## Paper Explained
-| **Name** | **Type** | **Descriptions** | **Link(s)** |
+## Paper Related
+| **Name** | **Type** | **Description** | **Link(s)** |
 |:--------:|:--------:|:----------------:|:-----------:|
-| Yannic Kilcher | YouTube Playlist | ~ | [Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7), [NLP](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu), [RL](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt), and [DL Architecture](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
+| Yannic Kilcher | YouTube Playlist | Explaining Research Papers in a short video | [Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7), [NLP](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu), [RL](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt), and [DL Architecture](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
 | diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
-| labml.ai Deep Learning Paper Implementations | WebSite | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
+| labml.ai Deep Learning Paper Implementations | Code & Text | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
 
 
