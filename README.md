@@ -68,43 +68,69 @@
 | ML | Scikit-learn Machine Learning with Python and SKlearn | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3) |
 | ML | ML in Python with scikit-learn | Data School | 2015 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) |
 | ML | Intro to Machine Learning and Statistical Pattern Classification Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3) |
+| ML | Intelligence and Learning | The Coding Train | 2018 | [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX) |
+| ML | ML For Beginners | codebasics | 2018 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) |
 | DL | Neural Networks: Zero to Hero | Andrej Karpathy | 2022 | [link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
 | DL | Intro to Deep Learning and Generative Models Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
 | DL | Neural Networks/ Deep Learning | StatQuest with Josh Starmer | 2022 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) |
 | DL | Foundations of Deep RL | Pieter Abbeel | 2021 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) |
+| DL | Deep Learning Fundamentals - Intro to Neural Networks | deeplizard | 2017 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) |
+| DL | Deep Learning With Tensorflow 2.0, Keras and Python | codebasics | 2020 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) |
+| RL | Reinforcement Learning - Developing Intelligent Agents | deeplizard | 2018 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xoWNVdDudn51XM8lOuZ_Njv) |
 | CV | OpenCV with Python for Image and Video Analysis | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq) |
 | CV | OpenCV Course - Full Tutorial with Python | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=oXlwWbU8l2o) |
 | CV | Computer Vision in Practice | Roboflow | 2023 | [link](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
 | CV | DL for CV (neuralearn.ai) | freeCodeCamp.org | 2023 | [link](https://www.youtube.com/watch?v=IA3WxTTPXqQ) |
+| CV | OpenCV Python Tutorials | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn) |
 | NLP | NLTK with Python 3 for Natural Language Processing | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) |
+| NLP | NLP Transformers Attention | ~ | ~ | [link](https://www.youtube.com/playlist?list=PLxI06TjqRkofnRuvD-Ks0Qef5g73yrMQ7) |
+| NLP | NLP Tutorial Python | codebasics | 2023 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) |
+| GAN | Generative Adversarial Networks (GANs) | Ahlad Kumar | 2019 | [link](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) |
 | Python | Python for Beginners | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=eWRfhZUzrAc) |
+| Python | Intermediate Python Tutorials | Tech With Tim | 2018 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv) |
+| Python | Expert Python Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) |
 | PyTorch | PyTorch Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) |
 | PyTorch | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [Youtube](https://www.youtube.com/watch?v=V_xro1bcAuA), [Course Materials](https://www.learnpytorch.io/) |
+| PyTorch | PyTorchZeroToAll (in English) | Sung Kim | 2017 | [link](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m) |
+| PyTorch | PyTorch - Python Deep Learning Neural Network API | deeplizard | 2018 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) |
 | TensorFlow | TensorFlow 2.0 Beginner Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) |
 | TensorFlow | TensorFlow 2.0 Complete Course | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
+| TensorFlow | Building recommendation systems with TensorFlow | TensorFlow | 2021 | [link](https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz) |
+| TensorFlow | TensorFlow - Python Deep Learning Neural Network API | deeplizard | 2020 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) |
+| Keras | Keras Python Deep Learning Neural Network API | deeplizard | 2017 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrL4F90oKfloWM7ExXT_U_b) |
+| Keras & TensorFlow | Deep Learning Deployment Basics - Neural Network Web Apps | deeplizard | 2022 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xr34kj-vyrIXzvUJsG3z5S_) |
 | Matplotlib | Matplotlib Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
 | Matplotlib | Matplotlib Tutorial Series - Graphing in Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
 | Flask | Practical Flask Web Development Tutorials | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) |
 | Flask | Flask Tutorials | Corey Schafer | 2018 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) |
 | Flask | Flask | Krish Naik | 2021 | [link](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc) |
+| Flask | Flask Blog Tutorial | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nK0Pyubp7yIG0RdXp6zklu) |
+| Flask | Flask Tutorials | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) |
 | Pandas | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) |
 | Pandas | Pandas Tutorials | Corey Schafer | 2020 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
+| Pandas | Pandas Tutorial (Data Analysis In Python) | codebasics | 2017 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) |
+| NumPy | Deep Learning Prerequisites: The Numpy Stack in Python | Lazy Programmer | 2020 | [link](https://www.youtube.com/playlist?list=PLxgDUj5eygKnSd4MYHIuAC7E3VEPm_WLO) |
+| NumPy | Python NumPy Tutorial for Beginners | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=QUT1VHiLmmI) |
 | Django | Django Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) |
 | Django | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
+| Django | Python Django Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9) |
 | Finance | Python Programming for Finance | Sentdex | 2018 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ) |
 | Finance | Python for Finance with Zipline and Quantopian | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN) |
 | Finance | Customizing Matplotlib Graphs and Charts | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ) |
 | Finance | Machine Learning for Forex and Stock analysis and algorithmic trading | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe6ZBtkCNWNUbdaBo2vA4RO) |
 | Finance | Python: Mathematics and Stock/Forex/Futures indicators | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdOmhRb_AHkhHv7aBfHalhX) |
 | Finance | Big Data Analytics & Algorithmic Stock Trading / Backtesting  | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq) |
+| Finance | Trading - Advanced Order Types with Coinbase | deeplizard | 2017 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xr17PqeytCKiCD-TJj89rII) |
 | Robotics | Robotics and the Raspberry Pi | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeJlgD1RX9_49tMLUxvIxF4) |
 | Math | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
 | Math | Essence of linear algebra | 3Blue1Brown | 2016 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Math | The essence of calculus | 3Blue1Brown | 2017 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Math | Differential equations | 3Blue1Brown | 2021 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 | Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) |
-| Linux | Linux/Mac Tutorials | Corey Schafer | 2015 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c) | 
-
+| Linux | Linux/Mac Tutorials | Corey Schafer | 2015 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c) |
+| Linux | Linux for Programmers | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h) |
+| Crypto | Blockchain For Beginners | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx) |
+| DS | Data Science Full Course For Beginners | codebasics | ~ | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV) |
 
 ## Tech Companies Courses
 | **Offered by** | **Course Name(s)** | **Links** | 
@@ -158,15 +184,16 @@
 | Natural Language Processing Specialization | Coursera | Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October '21 | [link](https://www.coursera.org/specializations/natural-language-processing) |
 | Generative AI with Large Language Models | Coursera | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications | [link](https://www.coursera.org/learn/generative-ai-with-llms) |
 | IBM Data Science Professional Certificate | Coursera | Prepare for a career as a data scientist. Develop in-demand skills and hands-on experience to get job-ready in as little as 5 months. No prior experience required. | [link](https://www.coursera.org/professional-certificates/ibm-data-science) |
+| TensorFlow: Data and Deployment Specialization | Coursera | Browser-based Models with TensorFlow.js, Device-based Models with TensorFlow Lite, Data Pipelines with TensorFlow Data Services, Advanced Deployment Scenarios with TensorFlow | [link](https://www.coursera.org/specializations/tensorflow-data-and-deployment) |
 <!--|  | Coursera |  | [link]() |
-|  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |-->
 
 ## Hands-on-Projects for Portfolio
-| **Project Name** | **Description**| **Links** | 
+| **Name** | **Description**| **Links** | 
 |:----------------:|:--------------:|:---------:|
 | Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
+| Data Science & Machine Learning Projects | YouTube Playlist | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M) |
 
 ## Paper Related
 | **Name** | **Type** | **Description** | **Link(s)** |
@@ -177,6 +204,15 @@
 
 ## Blogs
 1. 
+
+## Tutorials from Package Creators
+1. [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/)
+2. [PyTorch Tutorials](https://pytorch.org/tutorials/)
+3. 
+
+## Deploy Models
+1. [MlFlow](https://mlflow.org/)
+2. [Deploy ML with Django](https://www.deploymachinelearning.com/)
 
 ## Get Insight
 Brandon Roher Blog: [link](https://e2eml.school/blog.html) 
