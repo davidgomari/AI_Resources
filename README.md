@@ -19,6 +19,8 @@
 
 | **Topic** | **Institute** | **Name** | **Year(s)** | **Youtube Link** | **Course Website** |
 |:---------:|:-------------:|:--------:|:-----------:|:----------------:|:------------------:|
+| AI | UC Berkeley | CS188 Intro to AI | 2018-2023 | [2018](https://www.youtube.com/playlist?list=PLsOUugYMBBJENfZ3XAToMsg44W7LeUVhF) and [2023](https://www.youtube.com/playlist?list=PLp8QV47qJEg7WWVg_5eOECzVPpy23UjJz) | [HomePage](https://inst.eecs.berkeley.edu/~cs188/archives.html) and [2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) and [2023](https://inst.eecs.berkeley.edu/~cs188/sp23/) |
+| AI | Stanford | CS221 AI: Principles and Techniques | 2019-2022 | [2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) and [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2) | [2019](https://stanford-cs221.github.io/autumn2019/) and [2021](https://stanford-cs221.github.io/autumn2021/) |
 | ML | Stanford | CS229: ML | 2018-2022 | [2018 taught by Andrew NG](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU), and [2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) | ~ |
 | ML | DeepLearning.Ai | ML Specialization | ~ | [link](https://youtube.com/playlist?list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) | ~ |
 | ML | DeepLearning.Ai | ML Ops | ~ | [link](https://youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) | ~ |
@@ -28,7 +30,7 @@
 | ML | UC Berkeley | CS294: Deep Unsupervised Learning | 2020 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [link](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 | DL | Stanford | CS230: DL | 2018 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) | ~ |
 | DL | New York University | DL | 2020-2021 | with Yann LeCun: [2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq), and [2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | ~ |
-| DL | Fast.AI | Practical DL for coders | ~ | [part 1: DL](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU), and [part 2: Stable Diffusion and DL](https://youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) | ~ |
+| DL | Fast.AI | Practical DL for coders | ~ | [part 1: DL](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU), and [part 2: Stable Diffusion and DL](https://youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) | [link](https://course.fast.ai/) |
 | DL | DeepLearning.Ai | DL Specialization | ~ | [1: NN & DL](https://youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0), [2: Improving Deep NN](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc), [3: Structuring ML Projects](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b), [4: Convolutional NN](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF), and [5: Sequence Models](https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6) | ~ |
 | DL | Google DeepMind x University College London | DL | 2018-2020 | [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc), and [2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | ~ |
 | DL | Stanford | CS330: Deep Multi-Task and Meta Learning | 2019-2023 | [2019](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) and [2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) | [link](https://cs330.stanford.edu/) |
@@ -38,6 +40,7 @@
 | DL | UC Berkeley | CS 182: Deep Learning | 2021 | [link](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) | [link](https://cs182sp21.github.io/) |
 | NLP | Stanford | CS224N: NLP with DL | 2021-2023 | [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ), and [2023](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) | ~ |
 | NLP | Stanford | XC224U: NLP Understanding | 2021-2023 | [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ), and [2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) | ~ |
+| NLP | Fast.ai | A Code-First Introduction to NLP | 2019 | [link](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) | [link](https://www.fast.ai/posts/2019-07-08-fastai-nlp.html) |
 | NLP | UMass | CS685: Advanced NLP | 2023 | [link](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) | ~ |
 | NLP | University of Texas at Austin | NLP | 2023 | [link](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) | ~ |
 | NLP | CMU | Advanced NLP | 2021-2024 | [2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6), [2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z), and [2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg) | [2024](https://phontron.com/class/anlp2024/) |
@@ -83,6 +86,7 @@
 | Matplotlib | Matplotlib Tutorial Series - Graphing in Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
 | Flask | Practical Flask Web Development Tutorials | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) |
 | Flask | Flask Tutorials | Corey Schafer | 2018 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) |
+| Flask | Flask | Krish Naik | 2021 | [link](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc) |
 | Pandas | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) |
 | Pandas | Pandas Tutorials | Corey Schafer | 2020 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
 | Django | Django Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) |
@@ -153,6 +157,7 @@
 | Deep Learning Specialization | Coursera | Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques! | [link](https://www.coursera.org/specializations/deep-learning) |
 | Natural Language Processing Specialization | Coursera | Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October '21 | [link](https://www.coursera.org/specializations/natural-language-processing) |
 | Generative AI with Large Language Models | Coursera | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications | [link](https://www.coursera.org/learn/generative-ai-with-llms) |
+| IBM Data Science Professional Certificate | Coursera | Prepare for a career as a data scientist. Develop in-demand skills and hands-on experience to get job-ready in as little as 5 months. No prior experience required. | [link](https://www.coursera.org/professional-certificates/ibm-data-science) |
 <!--|  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
