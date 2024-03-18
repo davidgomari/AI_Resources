@@ -175,4 +175,11 @@
 | diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
 | labml.ai Deep Learning Paper Implementations | Code & Text | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
 
+## Blogs
+1. 
 
+## Get Insight
+Brandon Roher Blog: [link](https://e2eml.school/blog.html) 
+
+## Fun Youtube Channels
+1. The Coding Train ([click](https://www.youtube.com/@TheCodingTrain/))
