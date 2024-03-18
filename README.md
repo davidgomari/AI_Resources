@@ -103,7 +103,7 @@
 
 
 ## Tech Companies Courses
-| **Company** | **Course Name(s)** | **Links** | 
+| **Offered by** | **Course Name(s)** | **Links** | 
 |:-----------:|:---------------:|:---------:|
 | Microsoft | Generative AI for beginners | [link](https://microsoft.github.io/generative-ai-for-beginners/#/), and [github repo](https://github.com/microsoft/generative-ai-for-beginners) |
 | Microsoft | ML for beginners | [link](https://microsoft.github.io/ML-For-Beginners/#/), and [gihub repo](https://github.com/microsoft/ML-For-Beginners?WT.mc_id=academic-105485-koreyst) |
@@ -111,6 +111,18 @@
 | Microsoft | AI for beginners | [link](https://microsoft.github.io/AI-For-Beginners/), and [github repo](https://github.com/microsoft/ai-for-beginners) |
 | Microsoft | Web Dev for beginners | [link](https://microsoft.github.io/Web-Dev-For-Beginners/#/), and [github repo](https://github.com/microsoft/Web-Dev-For-Beginners?WT.mc_id=academic-0000-abartolo) |
 | Microsoft | IOT for beginners | [link](https://microsoft.github.io/IoT-For-Beginners/#/), and [github repo](https://github.com/microsoft/IoT-For-Beginners) |
+| Google | Google Cloud Skills Boost (Machine Learning Engineer Learning Path, Introduction to Generative AI Learning Path, Data Analyst Learning Path, Data Engineer Learning Path, and..) | [link](https://www.cloudskillsboost.google/paths) |
+| Google | Launching into Machine Learning | [link](https://www.cloudskillsboost.google/course_templates/8) |
+| Google | Machine Learning in the Enterprise | [link](https://www.cloudskillsboost.google/course_templates/9) |
+| Google | TensorFlow on Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/12) |
+| Google | Feature Engineering | [link](https://www.cloudskillsboost.google/course_templates/11) |
+| Google | Introduction to AI and Machine Learning on Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/593) |
+| Google | Production Machine Learning Systems | [link](https://www.cloudskillsboost.google/course_templates/17) |
+| Google | ML Pipelines on Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/191) |
+| Google | Machine Learning Operations (MLOps): Getting Started | [link](https://www.cloudskillsboost.google/course_templates/158) |
+| Google | Computer Vision Fundamentals with Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/18) |
+| Google | Recommendation Systems on Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/39) |
+| Google | Introduction to Image Generation | [link](https://www.cloudskillsboost.google/course_templates/541) |
 | Kaggle | Intro to Programming, Python, Intro to ML, Pandas, Intermediate ML, Data Visualization, Feature Engineering, Intro to SQL, Advanced SQL, intro to DL, CV, Time Series, Data Cleaning, Intro to AI Ethics, Geospatial Analysis, ML Explainability, and Intro to Game AI and RL | [link](https://www.kaggle.com/learn) |
 | Hugging Face | **NLP**, Deep RL, Audio, Open-Source AI Cookbook, and ML for Games | [link](https://huggingface.co/learn) |
 
