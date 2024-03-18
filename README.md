@@ -12,6 +12,8 @@
 **NN:** Neural Networks.
 
 **DS**: Data Science
+
+**SDC**: Self_Driving Car
  
 ## University/ Institutes Courses
 
@@ -28,18 +30,31 @@
 | DL | Fast.AI | Practical DL for coders | ~ | [part 1: DL](https://youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU), and [part 2: Stable Diffusion and DL](https://youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP) | ~ |
 | DL | DeepLearning.Ai | DL Specialization | ~ | [1: NN & DL](https://youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0), [2: Improving Deep NN](https://youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc), [3: Structuring ML Projects](https://youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b), [4: Convolutional NN](https://youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF), and [5: Sequence Models](https://youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6) | ~ |
 | DL | Google DeepMind x University College London | DL | 2018-2020 | [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc), and [2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | ~ |
+| DL | Stanford | CS330: Deep Multi-Task and Meta Learning | 2019-2023 | [2019](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) and [2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) | [link](https://cs330.stanford.edu/) |
 | DL | MIT | 6.S191 Intro to DL | ~ | [link](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | ~ |
 | DL | MIT | 6.5940 TinyML and Efficient Deep Learning Computing | 2023 | [link](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) | ~ |
+| DL | MIT | Deep Learning in Life Sciences 6.874 | 2020 | [link](https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB) | [link](https://mit6874.github.io/) |
+| DL | UC Berkeley | CS 182: Deep Learning | 2021 | [link](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) | [link](https://cs182sp21.github.io/) |
 | NLP | Stanford | CS224N: NLP with DL | 2021-2023 | [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ), and [2023](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) | ~ |
 | NLP | Stanford | XC224U: NLP Understanding | 2021-2023 | [2021](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ), and [2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) | ~ |
 | NLP | UMass | CS685: Advanced NLP | 2023 | [link](https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj) | ~ |
 | NLP | University of Texas at Austin | NLP | 2023 | [link](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) | ~ |
+| NLP | CMU | Advanced NLP | 2021-2024 | [2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6), [2022](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z), and [2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg) | [2024](https://phontron.com/class/anlp2024/) |
 | RL | Stanford | CS234: RL | 2019 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | ~ |
 | RL | DeepMind x UCL | RL | 2015-2021 | [2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb), and [2021 (youtube playlist name is wrong)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | ~ |
+| RL | UC Berkeley | CS 285: Deep Reinforcement Learning | 2020-2023 | [2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) and [2023](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | [link](https://rail.eecs.berkeley.edu/deeprlcourse/) |
 | CV | Stanford | CS231N: DL for CV | 2017 | [link](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | ~ |
 | CV | Michigan Online | DL for CV | ~ | [link](https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | ~ |
 | CV | University of Central Florida | CV | 2014 | [link](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) | ~ |
+| CV | University of Tübingen | CV | 2023 | [link](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | [link](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) |
+| CV | Weizmann Institute of Science | DL for CV: Fundamentals and Applications | 2021 | [2021](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) and [2023](https://www.youtube.com/playlist?list=PLsC5GwVCimvir_jDcoReWihVRkc_w0gVe) | [link](https://dl4cv.github.io/) |
+| Robotics | UC Berkeley | CS287 Advanced Robotics | 2019 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) | scroll down after opening this [link](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) |
+| SDC | University of Tübingen | Self-Driving Cars | 2023 | [link](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr) | [link](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) |
+| Math | Stanford | CS109 Introduction to Probability for Computer Scientists | 2023 | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) | [link](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/) |
+| Math | Stanford | EE364A Convex Optimization | 2024 | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) | [link](https://web.stanford.edu/class/ee364a/index.html) |
+| Math | University of Tübingen | Math for Deep Learning | 2022 | [link](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) | [link](https://uni-tuebingen.de/de/241678) |
 | Other | Stanford | CS25 Transformers United | ~ | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | ~ |
+| Other | UC Berkeley | CS294: Deep Unsupervised Learning | 2020 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | [link](https://sites.google.com/view/berkeley-cs294-158-sp20/home) |
 
 ## YouTube Channels Playlists
 | **Topic** | **Playlist Name** | **Channel Name** | **Year** | **Youtube Link** | 
@@ -53,19 +68,25 @@
 | DL | Neural Networks: Zero to Hero | Andrej Karpathy | 2022 | [link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) |
 | DL | Intro to Deep Learning and Generative Models Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) |
 | DL | Neural Networks/ Deep Learning | StatQuest with Josh Starmer | 2022 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) |
+| DL | Foundations of Deep RL | Pieter Abbeel | 2021 | [link](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) |
 | CV | OpenCV with Python for Image and Video Analysis | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq) |
 | CV | OpenCV Course - Full Tutorial with Python | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=oXlwWbU8l2o) |
 | CV | Computer Vision in Practice | Roboflow | 2023 | [link](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
+| CV | DL for CV (neuralearn.ai) | freeCodeCamp.org | 2023 | [link](https://www.youtube.com/watch?v=IA3WxTTPXqQ) |
 | NLP | NLTK with Python 3 for Natural Language Processing | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) |
 | Python | Python for Beginners | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=eWRfhZUzrAc) |
-| Python | PyTorch Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) |
-| Python | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [Youtube](https://www.youtube.com/watch?v=V_xro1bcAuA), [Course Materials](https://www.learnpytorch.io/) |
-| Python | TensorFlow 2.0 Beginner Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) |
-| Python | TensorFlow 2.0 Complete Course | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
-| Python | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
-| Python | Matplotlib Tutorial Series - Graphing in Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
-| Python | Practical Flask Web Development Tutorials | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) |
-| Python | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) |
+| PyTorch | PyTorch Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) |
+| PyTorch | PyTorch for Deep Learning & Machine Learning | freeCodeCamp.org | 2022 | [Youtube](https://www.youtube.com/watch?v=V_xro1bcAuA), [Course Materials](https://www.learnpytorch.io/) |
+| TensorFlow | TensorFlow 2.0 Beginner Tutorials | Aladdin Persson | 2021 | [link](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb) |
+| TensorFlow | TensorFlow 2.0 Complete Course | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
+| Matplotlib | Matplotlib Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
+| Matplotlib | Matplotlib Tutorial Series - Graphing in Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
+| Flask | Practical Flask Web Development Tutorials | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) |
+| Flask | Flask Tutorials | Corey Schafer | 2018 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) |
+| Pandas | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) |
+| Pandas | Pandas Tutorials | Corey Schafer | 2020 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
+| Django | Django Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) |
+| Django | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
 | Finance | Python Programming for Finance | Sentdex | 2018 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ) |
 | Finance | Python for Finance with Zipline and Quantopian | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN) |
 | Finance | Customizing Matplotlib Graphs and Charts | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ) |
@@ -78,6 +99,7 @@
 | Math | The essence of calculus | 3Blue1Brown | 2017 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Math | Differential equations | 3Blue1Brown | 2021 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 | Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) |
+| Linux | Linux/Mac Tutorials | Corey Schafer | 2015 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c) | 
 
 
 ## Tech Companies Courses
@@ -104,6 +126,25 @@
 | Data Analyst Bootcamp | [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst) | 2020-2024 | [Youtube Playlist](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF), and [FreeCodeCamp Single Video](https://www.youtube.com/watch?v=PSNXoAs2FtQ) | Python, Pandas, Tableau, SQL, PowerBI, and Excell |
 | Data Analysis with Python | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=r-uOLxNrNk8) | Data Analyst, Jupyter Notebooks, NumPy, Pandas, Data Cleaning, Reading Data, and Python | 
 | Python for Data Science | freeCodeCamp.org | 2020 | [link](https://www.youtube.com/watch?v=LHBE6Q9XlzI) | Learn Python, Pandas, NumPy, Matplotlib |
+| Building LLM-Powered Apps | Weights & Biases | 2023 | [link](https://www.wandb.courses/courses/building-llm-powered-apps) | Learn how to build LLM-powered applications using LLM APIs |
+| LangChain & Vector Databases in Production | ActiveLoop | 2023 | [link](https://learn.activeloop.ai/courses/langchain) | Learn how to use LangChain and Vector DBs in Production |
+| Building Systems with the ChatGPT API | DeepLearning.Ai | 2023 | [link](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/) | you will learn how to automate complex workflows using chain calls to a large language model |
+
+## MOOCS
+| **Name** | **Platform** | **Description** | **Link** |
+|:--------:|:------------:|:---------------:|---------:|
+| Machine Learning Specialization | Coursera | #BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng | [link](https://www.coursera.org/specializations/machine-learning-introduction) |
+| Mathematics for Machine Learning and Data Science Specialization | Coursera | Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization where you’ll learn the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability | [link](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) |
+| AI For Everyone | Coursera | AI is not only for engineers. “AI for Everyone”, a non-technical course, will help you understand AI technologies and spot opportunities to apply AI to problems in your own organization. You will see examples of what today’s AI can – and cannot – do. Finally, you will understand how AI is impacting society and how to navigate through this technological change | [link](https://www.coursera.org/learn/ai-for-everyone) |
+| AI for Good Specialization | Coursera | Learn AI's role in addressing complex challenges. Build skills combining human and machine intelligence for positive real-world impact using AI | [link](https://www.coursera.org/specializations/ai-for-good) |
+| Generative AI for Everyone | Coursera | ~ | [link](https://www.coursera.org/learn/generative-ai-for-everyone) |
+| Deep Learning Specialization | Coursera | Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques! | [link](https://www.coursera.org/specializations/deep-learning) |
+| Natural Language Processing Specialization | Coursera | Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October '21 | [link](https://www.coursera.org/specializations/natural-language-processing) |
+| Generative AI with Large Language Models | Coursera | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications | [link](https://www.coursera.org/learn/generative-ai-with-llms) |
+|  | Coursera |  | [link]() |
+|  | Coursera |  | [link]() |
+|  | Coursera |  | [link]() |
+|  | Coursera |  | [link]() |
 
 ## Hands-on-Projects for Portfolio
 | **Project Name** | **Description**| **Links** | 
@@ -111,9 +152,10 @@
 | Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
 
 ## Paper Explained
-| **Name** | **Source** | **Link** |
-|:--------:|:----------:|:--------:|
-| Paper Explained | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7) |
-| NLP | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu) |
-| RL | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt) |
-| DL Architecture | Yannic Kilcher | [Youtube](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
+| **Name** | **Type** | **Descriptions** | **Link(s)** |
+|:--------:|:--------:|:----------------:|:-----------:|
+| Yannic Kilcher | YouTube Playlist | ~ | [Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7), [NLP](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu), [RL](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt), and [DL Architecture](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
+| diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
+| labml.ai Deep Learning Paper Implementations | WebSite | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
+
+
