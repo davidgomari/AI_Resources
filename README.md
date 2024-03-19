@@ -87,6 +87,7 @@
 | NLP | NLP Tutorial Python | codebasics | 2023 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) |
 | GAN | Generative Adversarial Networks (GANs) | Ahlad Kumar | 2019 | [link](https://www.youtube.com/playlist?list=PLdxQ7SoCLQAMGgQAIAcyRevM8VvygTpCu) |
 | Python | Python for Beginners | freeCodeCamp.org | 2022 | [link](https://www.youtube.com/watch?v=eWRfhZUzrAc) |
+| Python | Python Tutorials | Corey Schafer | 2016-2021 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) |
 | Python | Intermediate Python Tutorials | Tech With Tim | 2018 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv) |
 | Python | Expert Python Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP) |
 | Python | Python Intermediate Tutorial | NeuralNine | 2019 | [link](https://www.youtube.com/playlist?list=PL7yh-TELLS1F3KytMVZRFO-xIo_S2_Jg1) |
@@ -116,6 +117,11 @@
 | Django | Django Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) |
 | Django | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
 | Django | Python Django Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9) |
+| Django | Django Tutorial (Create a Blog) | Net Ninja | 2017 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc) |
+| DB | Complete MongoDB Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA) |
+| Ducker | Docker Crash Course Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) |
+| Github | Git & GitHub Tutorial for Beginners | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) |
+| Git | Git Tutorials | Corey Schafer | 2016 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) |
 | Web Scraping | Python Selenium Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ) |
 | Web Scraping | Beautiful Soup 4 Tutorial | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK) |
 | Finance | Python Programming for Finance | Sentdex | 2018 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ) |
@@ -199,6 +205,7 @@
 |:----------------:|:--------------:|:---------:|
 | Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
 | Data Science & Machine Learning Projects | YouTube Playlist | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M) |
+| 20 Data Science Projects with Source Code for Beginners | Web PAge | [link](https://www.dataquest.io/blog/20-data-science-projects-with-source-code-for-beginners/) |
 
 ## Paper Related
 | **Name** | **Type** | **Description** | **Link(s)** |
@@ -207,13 +214,17 @@
 | diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
 | labml.ai Deep Learning Paper Implementations | Code & Text | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
 
+## Documentations
+1. [Python Doc](https://www.python.org/doc/)
+
+
 ## Blogs
 1. 
 
-## Tutorials from Package Creators
+## Tutorials from its Creators
 1. [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/)
 2. [PyTorch Tutorials](https://pytorch.org/tutorials/)
-3. 
+3. [The Python Tutorials - Python Documentation](https://docs.python.org/3/tutorial/)
 
 ## Deploy Models
 1. [MlFlow](https://mlflow.org/)
@@ -224,3 +235,12 @@ Brandon Roher Blog: [link](https://e2eml.school/blog.html)
 
 ## Fun Youtube Channels
 1. The Coding Train ([click](https://www.youtube.com/@TheCodingTrain/))
+
+## Learn With Others
+Watching the people learning these same materials with you.
+| **Topic** | **Playlist Name** | **Channel Name** | **Year** | **Youtube Link** | 
+|:---------:|:---------:|:----------:|:----------------------:|:----------------:|
+| DL | Deep Learning Adventures - Coding in Tensorflow | George Zoto | 2020 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2e_GLED3VmKwBvbk7X11XEm) |
+| DL | Deep Learning Adventures - Tensorflow In Practice | George Zoto | 2020 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2dIziH1cJURyWipsoYHzN2p) |
+| DL | Deep Learning Adventures - Kaggle Courses | George Zoto | 2021 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2ciJiH6TmL8v_o42rb65RrN) |
+| DL | Deep Learning Adventures - TensorFlow Data and Deployment | George Zoto | 2021 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2fdy8_o3VIRok-UfYPS8qKa) |
