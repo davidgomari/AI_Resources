@@ -205,7 +205,7 @@
 |:----------------:|:--------------:|:---------:|
 | Hands on train and deploy ML | Predicting crypto price movements is extremely hard. But it is also a great field to show what Machine Learning has to offer. In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there. With this hands-on tutorial, I want to help you grow as an ML engineer and go beyond notebooks. | [Github](https://github.com/Paulescu/hands-on-train-and-deploy-ml) |
 | Data Science & Machine Learning Projects | YouTube Playlist | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut2o1ay5Dqh-r1kq6ZU8W0M) |
-| 20 Data Science Projects with Source Code for Beginners | Web PAge | [link](https://www.dataquest.io/blog/20-data-science-projects-with-source-code-for-beginners/) |
+| 20 Data Science Projects with Source Code for Beginners | Web Page | [link](https://www.dataquest.io/blog/20-data-science-projects-with-source-code-for-beginners/) |
 
 ## Paper Related
 | **Name** | **Type** | **Description** | **Link(s)** |
@@ -213,6 +213,9 @@
 | Yannic Kilcher | YouTube Playlist | Explaining Research Papers in a short video | [Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7), [NLP](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu), [RL](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt), and [DL Architecture](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
 | diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
 | labml.ai Deep Learning Paper Implementations | Code & Text | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
+
+## Roadmap
+1. [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals)
 
 ## Documentations
 1. [Python Doc](https://www.python.org/doc/)
