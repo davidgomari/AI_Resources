@@ -102,6 +102,7 @@
 | TensorFlow | TensorFlow - Python Deep Learning Neural Network API | deeplizard | 2020 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL) |
 | Keras | Keras Python Deep Learning Neural Network API | deeplizard | 2017 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrL4F90oKfloWM7ExXT_U_b) |
 | Keras & TensorFlow | Deep Learning Deployment Basics - Neural Network Web Apps | deeplizard | 2022 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xr34kj-vyrIXzvUJsG3z5S_) |
+| Sikit-Learn | scikit-learn tips | Data School | 2020 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ID7YYAqireYEew2mWVvgmj6) |
 | Matplotlib | Matplotlib Tutorials | Corey Schafer | 2019 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) |
 | Matplotlib | Matplotlib Tutorial Series - Graphing in Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
 | Flask | Practical Flask Web Development Tutorials | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB) |
@@ -119,12 +120,15 @@
 | Django | Django Web Development with Python | Sentdex | 2019 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3) |
 | Django | Python Django Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9) |
 | Django | Django Tutorial (Create a Blog) | Net Ninja | 2017 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc) |
+[ Django | Django Tutorials for Beginners | thenewboston | 2016 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK) |
 | DB | Complete MongoDB Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA) |
-| Ducker | Docker Crash Course Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) |
+| Docker | Docker Crash Course Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) |
+| Docker | Docker Tutorials | thenewboston | 2021 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) |
 | Github | Git & GitHub Tutorial for Beginners | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) |
 | Git | Git Tutorials | Corey Schafer | 2016 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx) |
 | Web Scraping | Python Selenium Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ) |
 | Web Scraping | Beautiful Soup 4 Tutorial | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK) |
+| Web Scraping | Python Web Crawler Tutorials | thenewboston | 2016 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0q) |
 | Finance | Python Programming for Finance | Sentdex | 2018 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ) |
 | Finance | Python for Finance with Zipline and Quantopian | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeN06s5ervxTfTcVvt-xpZN) |
 | Finance | Customizing Matplotlib Graphs and Charts | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc2QjQOkZ4rtLYZVll_sZFZ) |
@@ -138,14 +142,30 @@
 | Math | Essence of linear algebra | 3Blue1Brown | 2016 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
 | Math | The essence of calculus | 3Blue1Brown | 2017 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Math | Differential equations | 3Blue1Brown | 2021 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
+| Math | Linear Algebra | Derek Banas | 2020 | [link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQNOt6xlugFm3LmTYo5g_7i) and [link2](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO) |
 | Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) |
 | Data Structures | Redis for Beginners | Net Ninja | 2023 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P) |
 | Data Structures | Redis Explained | Redis | 2021 | [link](https://www.youtube.com/playlist?list=PL83Wfqi-zYZHtpd4Glbj-NBIz7RB0Jw5u) |
 | Linux | Linux/Mac Tutorials | Corey Schafer | 2015 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c) |
 | Linux | Linux for Programmers | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h) |
 | Crypto | Blockchain For Beginners | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx) |
+| Crypto | Ethereum Tutorials | thenewboston | 2022 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl) |
 | DS | Data Science Full Course For Beginners | codebasics | ~ | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV) |
+| DS | Machine Learning & Data Science | Derek Banas | 2021 | [link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn) |
 | Mobile App | CS50's Mobile App Development with React Native | CS50 | 2018 | [link](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) |
+| C++ | C++ | The Cherno | 2017 | [link](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) |
+| Game | Game Programming: Season 1 | 2012 | [link](https://www.youtube.com/playlist?list=PLlrATfBNZ98c-CeNT-q_Z7ox3R_eIkF98) |
+| React | React tutorial for beginners | Bro Code | 2024 | [link](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ) |
+| Bio | Biology Lecture Playlist | thenewboston |2014 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAdmjrf1RaZIJe2_3fGbhbu) |
+| CMD | Windows Command Line Tutorials | thenewboston | 2016 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu) |
+| Algo | Recursion + Backtracking Course | Kunal Kushwaha | 2021 | [link](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod) |
+| DevOp | CI/CD Tutorials | TechWorld with Nana | 2021 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjzSIlwxeBbcgfAdYoxCIrM2) |
+| DevOp | DevOps Concepts explained | TechWorld with Nana | 2022 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjwV7qC4kmgbgtFBsqkrsefG) |
+| DevOp | Infrastructure as Code (IaC) Tutorials | TechWorld with Nana | 2021 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjzmPAyfDQgthSgx6VEVlS0-) |
+| DevOp | Complete Kubernetes Tutorial for Beginners | TechWorld with Nana | 2020 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) |
+| DevOp | DevOps Tools | TechWorld with Nana | 2021 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjxKDRWLqkd4Kbt84XEerHhB) |
+| DevOp | Docker and Kubernetes Tutorial for Beginners | TechWorld with Nana | 2020 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb) |
+| DevOp | Docker Tutorial for Beginners | TechWorld with Nana | 2020 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs) |
 
 ## Tech Companies Courses
 | **Offered by** | **Course Name(s)** | **Links** | 
@@ -200,6 +220,8 @@
 | Generative AI with Large Language Models | Coursera | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications | [link](https://www.coursera.org/learn/generative-ai-with-llms) |
 | IBM Data Science Professional Certificate | Coursera | Prepare for a career as a data scientist. Develop in-demand skills and hands-on experience to get job-ready in as little as 5 months. No prior experience required. | [link](https://www.coursera.org/professional-certificates/ibm-data-science) |
 | TensorFlow: Data and Deployment Specialization | Coursera | Browser-based Models with TensorFlow.js, Device-based Models with TensorFlow Lite, Data Pipelines with TensorFlow Data Services, Advanced Deployment Scenarios with TensorFlow | [link](https://www.coursera.org/specializations/tensorflow-data-and-deployment) |
+| StanfordOnline: Databases: Relational Databases and SQL | Edx | ~ | [link](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) and [Youtube Playlist](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm) |
+| StanfordOnline: Statistical Learning | Edx | Learn some of the main tools used in statistical modeling and data science. We cover both traditional as well as exciting new methods, and how to use them in R and Python. | [edx-with-R](https://www.edx.org/learn/statistics/stanford-university-statistical-learning), [edx-with-Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python), [Youtube-with-R](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e), and [Youtube-with-Python](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ) |
 <!--|  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |-->
@@ -218,15 +240,6 @@
 | diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
 | labml.ai Deep Learning Paper Implementations | Code & Text | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
 
-## Roadmap
-1. [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals)
-
-## Documentations
-1. [Python Doc](https://www.python.org/doc/)
-
-
-## Blogs
-1. 
 
 ## Tutorials from its Creators
 1. [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/)
@@ -237,11 +250,6 @@
 1. [MlFlow](https://mlflow.org/)
 2. [Deploy ML with Django](https://www.deploymachinelearning.com/)
 
-## Get Insight
-Brandon Roher Blog: [link](https://e2eml.school/blog.html) 
-
-## Fun Youtube Channels
-1. The Coding Train ([click](https://www.youtube.com/@TheCodingTrain/))
 
 ## Learn With Others
 Watching the people learning these same materials with you.
@@ -251,3 +259,51 @@ Watching the people learning these same materials with you.
 | DL | Deep Learning Adventures - Tensorflow In Practice | George Zoto | 2020 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2dIziH1cJURyWipsoYHzN2p) |
 | DL | Deep Learning Adventures - Kaggle Courses | George Zoto | 2021 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2ciJiH6TmL8v_o42rb65RrN) |
 | DL | Deep Learning Adventures - TensorFlow Data and Deployment | George Zoto | 2021 | [link](https://www.youtube.com/playlist?list=PL2EBNWEnwV2fdy8_o3VIRok-UfYPS8qKa) |
+
+
+## Online Books
+| **Name** | **Author(s)** | **Description** | **Link(s)** |
+|:--------:|:-------------:|:---------------:|:-----------:|
+} ML for Trading - 2nd Edition | Stefen Jansen | This book aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques from linear regression to deep reinforcement learning and demonstrates how to build, backtest, and evaluate a trading strategy driven by model predictions. | [github](https://github.com/stefan-jansen/machine-learning-for-trading) |
+
+
+
+## Related Links
+### ML
+1. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python): This curated list contains 920 awesome open-source projects with a total of 4.3M stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an issue, submit a pull request, or directly edit the projects.yaml. Contributions are very welcome!
+2. [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. The purpose of this repository is not to implement machine learning algorithms by using 3rd party library one-liners but rather to practice implementing these algorithms from scratch and get better understanding of the mathematics behind each algorithm. That's why all algorithms implementations are called "homemade" and not intended to be used for production.
+
+
+## Recommended Books
+### ML
+1. [An Introduction to Statistical Learning with application in Python/R](https://www.statlearning.com/)
+
+
+
+
+## Interview
+| **Name** | **Description** | **Link(s)** |
+|:--------:|:----------------:|:-----------:|
+| FixMyResume | Fix your resume using AI, Find out if your resume fits the job you’re applying for. | [Webpage - link](https://www.fixmyresume.xyz/) |
+| ACCIO | Instantly Generate Resume Summary, Get a Quick Assessment of Any Resume Based on Job Role | [Webpage - link](https://accio.springworks.in/) |
+| machine-learning-interview | Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.  | [github](https://github.com/khangich/machine-learning-interview) |
+
+
+## Interactive Learning
+1. freeCodeCamp: [link](https://www.freecodecamp.org/learn/) 
+
+## Roadmap
+1. [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals)
+
+## Documentations
+1. [Python Doc](https://www.python.org/doc/)
+
+## Blogs
+1. 
+
+## Get Insight
+Brandon Roher Blog: [link](https://e2eml.school/blog.html) 
+
+## Fun Youtube Channels
+1. The Coding Train ([click](https://www.youtube.com/@TheCodingTrain/))
+2. Prof Ghrist Math: this is a channel for those on the road to Mathematics. ([click](https://www.youtube.com/@prof-g))
