@@ -109,6 +109,7 @@
 | Flask | Flask | Krish Naik | 2021 | [link](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc) |
 | Flask | Flask Blog Tutorial | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nK0Pyubp7yIG0RdXp6zklu) |
 | Flask | Flask Tutorials | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) |
+| Flask | CS50x 2024 - Lecture 9 - Flask | CS50 | 2024 | [link](https://www.youtube.com/watch?v=-aqUek49iL8&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=11) |
 | Pandas | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) |
 | Pandas | Pandas Tutorials | Corey Schafer | 2020 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) |
 | Pandas | Pandas Tutorial (Data Analysis In Python) | codebasics | 2017 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) |
@@ -138,10 +139,13 @@
 | Math | The essence of calculus | 3Blue1Brown | 2017 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Math | Differential equations | 3Blue1Brown | 2021 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) |
 | Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) |
+| Data Structures | Redis for Beginners | Net Ninja | 2023 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P) |
+| Data Structures | Redis Explained | Redis | 2021 | [link](https://www.youtube.com/playlist?list=PL83Wfqi-zYZHtpd4Glbj-NBIz7RB0Jw5u) |
 | Linux | Linux/Mac Tutorials | Corey Schafer | 2015 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c) |
 | Linux | Linux for Programmers | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h) |
 | Crypto | Blockchain For Beginners | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx) |
 | DS | Data Science Full Course For Beginners | codebasics | ~ | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV) |
+| Mobile App | CS50's Mobile App Development with React Native | CS50 | 2018 | [link](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) |
 
 ## Tech Companies Courses
 | **Offered by** | **Course Name(s)** | **Links** | 
