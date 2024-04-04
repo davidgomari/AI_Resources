@@ -179,6 +179,11 @@
 | DevOp | Docker and Kubernetes Tutorial for Beginners | TechWorld with Nana | 2020 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjwPggqtFsI_zMAwvG0SqYCb) | |
 | DevOp | Docker Tutorial for Beginners | TechWorld with Nana | 2020 | [link](https://www.youtube.com/playlist?list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs) | |
 
+Sentdex website: [click here](https://pythonprogramming.net/)
+
+## Channels to Check
+1. Jie Jenn: [link](https://www.youtube.com/@jiejenn/playlists)
+
 ## Tech Companies Courses
 | **Offered by** | **Course Name(s)** | **Links** | **OK** | 
 |:-----------:|:---------------:|:---------:|:------:|
@@ -308,7 +313,9 @@ Watching the people learning these same materials with you.
 1. [AI Expert Roadmap](https://i.am.ai/roadmap/#fundamentals)
 
 ## Documentations
-1. [Python Doc](https://www.python.org/doc/)
+| **Name** | **Link(s)** |
+|:--------:|:-----------:|
+| Python | [webPage](https://www.python.org/doc/) |
 
 ## Blogs
 1. 
