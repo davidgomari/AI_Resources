@@ -144,6 +144,8 @@
 | Finance | CCXT - Advanced Cryptocurrency Trading Bot Development | Joaquin Roibal | 2018 | [link](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-xGRz3v_2nF7f9HKZrfSpj) |
 | Finance | Triangular Arbitrage Cryptocurrency Coding in Python | Joaquin Roibal | 2018 | [link](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-CNQXcqX9HGgy75aXdNjOZ) |
 | Finance | Python - Finance - Trading Robot | Sigma Coding | 2020 | [link](https://www.youtube.com/playlist?list=PLcFcktZ0wnNmdgAdv4-Yl_nzS5LiKnhnn) |
+| Finance | Python - Finance - Machine Learning | Sigma Coding | 2019 | [link](https://www.youtube.com/playlist?list=PLcFcktZ0wnNmOcf5qgqp29K4fiG3N8-ia) |
+| Finance | Python - Finance - All | Sigma Coding | 2019 | [link](https://www.youtube.com/playlist?list=PLcFcktZ0wnNnKvxFkJ5B7pvGaGa81Ny-6) |
 | Finance | Full Algorithmic Trading Course | TradeOptionsWithMe | 2021 | [link](https://www.youtube.com/playlist?list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad) |
 | Finance | Algorithmic Trading With Python | CodeTrading | 2021-2024 | [link](https://www.youtube.com/playlist?list=PLwEOixRFAUxZmM26EYI1uYtJG39HDW1zm) |
 | Crypto | Blockchain For Beginners | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx) |
