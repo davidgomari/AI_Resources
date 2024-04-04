@@ -121,6 +121,7 @@
 | Django | Python Django Tutorials | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9) |
 | Django | Django Tutorial (Create a Blog) | Net Ninja | 2017 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ib4HsrXEYpQnTOTZE1x0uc) |
 [ Django | Django Tutorials for Beginners | thenewboston | 2016 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK) |
+| Django | Try Django 3.2 - Python Web Development Tutorial Series | CodingEntrepreneurs | 2021 | [link](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) |
 | DB | Complete MongoDB Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA) |
 | Docker | Docker Crash Course Tutorial | Net Ninja | 2022 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7) |
 | Docker | Docker Tutorials | thenewboston | 2021 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) |
@@ -137,6 +138,16 @@
 | Finance | Big Data Analytics & Algorithmic Stock Trading / Backtesting  | Sentdex | 2014 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcR-u9O8LyLR7URiKuW-XZq) |
 | Finance | Trading - Advanced Order Types with Coinbase | deeplizard | 2017 | [link](https://www.youtube.com/playlist?list=PLZbbT5o_s2xr17PqeytCKiCD-TJj89rII) |
 | Finance | Python For Finance | NeuralNine | 2020 | [link](https://www.youtube.com/playlist?list=PL7yh-TELLS1HJzPsb6Xjdse2zbyQ-ocDH) |
+| Finance | Python For Finance | Computer Science | 2020-2024 | [link](https://www.youtube.com/playlist?list=PLBhJnyA0V0uLLhGrJTKLNYfd7_Q-8_jja) |
+| Finance | Building cryptocurrency trading bots | Cryptocurrency Trading | 2017 | [link](https://www.youtube.com/playlist?list=PL2U3qLYtsXsT5QuFQUtxbfj62K3AiLOse) |
+| Finance | Create Binance Bot in Python - Cryptocurrency Trader | Joaquin Roibal | 2018 | [link](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw) |
+| Finance | CCXT - Advanced Cryptocurrency Trading Bot Development | Joaquin Roibal | 2018 | [link](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-xGRz3v_2nF7f9HKZrfSpj) |
+| Finance | Triangular Arbitrage Cryptocurrency Coding in Python | Joaquin Roibal | 2018 | [link](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-CNQXcqX9HGgy75aXdNjOZ) |
+| Finance | Python - Finance - Trading Robot | Sigma Coding | 2020 | [link](https://www.youtube.com/playlist?list=PLcFcktZ0wnNmdgAdv4-Yl_nzS5LiKnhnn) |
+| Finance | Full Algorithmic Trading Course | TradeOptionsWithMe | 2021 | [link](https://www.youtube.com/playlist?list=PLtqRgJ_TIq8Y6YG8G-ETIFW_36mvxMLad) |
+| Finance | Algorithmic Trading With Python | CodeTrading | 2021-2024 | [link](https://www.youtube.com/playlist?list=PLwEOixRFAUxZmM26EYI1uYtJG39HDW1zm) |
+| Crypto | Blockchain For Beginners | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx) |
+| Crypto | Ethereum Tutorials | thenewboston | 2022 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl) |
 | Robotics | Robotics and the Raspberry Pi | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeJlgD1RX9_49tMLUxvIxF4) |
 | Math | Statistics Fundamentals | StatQuest with Josh Starmer | 2017 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9) |
 | Math | Essence of linear algebra | 3Blue1Brown | 2016 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
@@ -148,10 +159,9 @@
 | Data Structures | Redis Explained | Redis | 2021 | [link](https://www.youtube.com/playlist?list=PL83Wfqi-zYZHtpd4Glbj-NBIz7RB0Jw5u) |
 | Linux | Linux/Mac Tutorials | Corey Schafer | 2015 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c) |
 | Linux | Linux for Programmers | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h) |
-| Crypto | Blockchain For Beginners | Tech With Tim | 2020 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx) |
-| Crypto | Ethereum Tutorials | thenewboston | 2022 | [link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBrtymuJUiv9Lq5CAYpN8Gl) |
 | DS | Data Science Full Course For Beginners | codebasics | ~ | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV) |
 | DS | Machine Learning & Data Science | Derek Banas | 2021 | [link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQy4mkmEvtFwZGg1S38MUmn) |
+| DS | Data Science | Computer Science | 2018-2023 | [link](https://www.youtube.com/playlist?list=PLBhJnyA0V0uKUX93csc8u3uVsYqISJnsv) |
 | Mobile App | CS50's Mobile App Development with React Native | CS50 | 2018 | [link](https://www.youtube.com/playlist?list=PLhQjrBD2T382gdfveyad09Ierl_3Jh_wR) |
 | C++ | C++ | The Cherno | 2017 | [link](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) |
 | Game | Game Programming: Season 1 | 2012 | [link](https://www.youtube.com/playlist?list=PLlrATfBNZ98c-CeNT-q_Z7ox3R_eIkF98) |
