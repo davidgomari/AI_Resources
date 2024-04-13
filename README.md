@@ -193,7 +193,8 @@ Sentdex website: [click here](https://pythonprogramming.net/)
 | Microsoft | AI for beginners | [link](https://microsoft.github.io/AI-For-Beginners/), and [github repo](https://github.com/microsoft/ai-for-beginners) | |
 | Microsoft | Web Dev for beginners | [link](https://microsoft.github.io/Web-Dev-For-Beginners/#/), and [github repo](https://github.com/microsoft/Web-Dev-For-Beginners?WT.mc_id=academic-0000-abartolo) | |
 | Microsoft | IOT for beginners | [link](https://microsoft.github.io/IoT-For-Beginners/#/), and [github repo](https://github.com/microsoft/IoT-For-Beginners) | |
-| Google | Google Cloud Skills Boost (Machine Learning Engineer Learning Path, Introduction to Generative AI Learning Path, Data Analyst Learning Path, Data Engineer Learning Path, and..) | [link](https://www.cloudskillsboost.google/paths) | |
+| Microsoft | Power BI Data Analyst Professional Certificate | [coursera](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst) | |
+| Google | **Google Cloud Skills Boost:** Machine Learning Engineer Learning Path, Introduction to Generative AI Learning Path, Data Analyst Learning Path, Data Engineer Learning Path, and.. | [link](https://www.cloudskillsboost.google/paths) | |
 | Google | Launching into Machine Learning | [link](https://www.cloudskillsboost.google/course_templates/8) | |
 | Google | Machine Learning in the Enterprise | [link](https://www.cloudskillsboost.google/course_templates/9) | |
 | Google | TensorFlow on Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/12) | |
@@ -205,8 +206,13 @@ Sentdex website: [click here](https://pythonprogramming.net/)
 | Google | Computer Vision Fundamentals with Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/18) | |
 | Google | Recommendation Systems on Google Cloud | [link](https://www.cloudskillsboost.google/course_templates/39) | |
 | Google | Introduction to Image Generation | [link](https://www.cloudskillsboost.google/course_templates/541) | |
+| Google | Data Analytics Professional Certificate | [coursera](https://www.coursera.org/professional-certificates/google-data-analytics) |
 | Kaggle | Intro to Programming, Python, Intro to ML, Pandas, Intermediate ML, Data Visualization, Feature Engineering, Intro to SQL, Advanced SQL, intro to DL, CV, Time Series, Data Cleaning, Intro to AI Ethics, Geospatial Analysis, ML Explainability, and Intro to Game AI and RL | [link](https://www.kaggle.com/learn) | |
 | Hugging Face | **NLP**, Deep RL, Audio, Open-Source AI Cookbook, and ML for Games | [link](https://huggingface.co/learn) | |
+| IBM | **Data Science Professional Certificate** | [coursera](https://www.coursera.org/professional-certificates/ibm-data-science) |
+| IBM | **Data Analyst Professional Certificate** | [coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst) |
+| IBM | **AI Engineering Professional Certificate:** Machine Learning with Python, Introduction to Deep Learning & Neural Networks with Keras, Introduction to Computer Vision and Image Processing, Deep Neural Networks with PyTorch, Building Deep Learning Models with TensorFlow, and AI Capstone Project with Deep Learning | [Coursera](https://www.coursera.org/professional-certificates/ai-engineer) |
+| IBM | **Machine Learning Professional Certificate:** Exploratory Data Analysis for Machine Learning, Supervised Machine Learning: Regression and Classification, Unsupervised Machine Learning, Deep Learning and Reinforcement Learning, Machine Learning Capstone | [Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning) |
 
 
 ## Bootcamps/Workshops
@@ -235,10 +241,14 @@ Sentdex website: [click here](https://pythonprogramming.net/)
 | Deep Learning Specialization | Coursera | Become a Machine Learning expert. Master the fundamentals of deep learning and break into AI. Recently updated with cutting-edge techniques! | [link](https://www.coursera.org/specializations/deep-learning) |
 | Natural Language Processing Specialization | Coursera | Break into NLP. Master cutting-edge NLP techniques through four hands-on courses! Updated with the latest techniques in October '21 | [link](https://www.coursera.org/specializations/natural-language-processing) |
 | Generative AI with Large Language Models | Coursera | In Generative AI with Large Language Models (LLMs), created in partnership with AWS, you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications | [link](https://www.coursera.org/learn/generative-ai-with-llms) |
-| IBM Data Science Professional Certificate | Coursera | Prepare for a career as a data scientist. Develop in-demand skills and hands-on experience to get job-ready in as little as 5 months. No prior experience required. | [link](https://www.coursera.org/professional-certificates/ibm-data-science) |
 | TensorFlow: Data and Deployment Specialization | Coursera | Browser-based Models with TensorFlow.js, Device-based Models with TensorFlow Lite, Data Pipelines with TensorFlow Data Services, Advanced Deployment Scenarios with TensorFlow | [link](https://www.coursera.org/specializations/tensorflow-data-and-deployment) |
 | StanfordOnline: Databases: Relational Databases and SQL | Edx | ~ | [link](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) and [Youtube Playlist](https://www.youtube.com/playlist?list=PL9ysvtVnryGpnIj9rcIqNDxakUn6v72Hm) |
 | StanfordOnline: Statistical Learning | Edx | Learn some of the main tools used in statistical modeling and data science. We cover both traditional as well as exciting new methods, and how to use them in R and Python. | [edx-with-R](https://www.edx.org/learn/statistics/stanford-university-statistical-learning), [edx-with-Python](https://www.edx.org/learn/python/stanford-university-statistical-learning-with-python), [Youtube-with-R](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e), and [Youtube-with-Python](https://www.youtube.com/playlist?list=PLoROMvodv4rPP6braWoRt5UCXYZ71GZIQ) |
+| Data Visualization with Tableau Specialization | Coursera, UC Davis | Visualize Business Data with Tableau. Create powerful business intelligence reports | [link](https://www.coursera.org/specializations/data-visualization) |
+| Learn SQL Basics for Data Science Specialization | Coursera, UC David | SQL for Data Science, Data Wrangling, Analysis and AB Testing with SQL, Distributed Computing with Spark SQL, SQL for Data Science Capstone Project | [link](https://www.coursera.org/specializations/learn-sql-basics-data-science) |
+| ICL: Mathematics for Machine Learning Specialization | Coursera, ICL | Mathematics for Machine Learning: Linear Algebra, Multivariate Calculus, and PCA | [link](https://www.coursera.org/specializations/mathematics-machine-learning) |
+| Stanford: Introduction to Statistics | Coursera, Stanford | Stanford's "Introduction to Statistics" teaches you statistical thinking concepts that are essential for learning from data and communicating insights. By the end of the course, you will be able to perform exploratory data analysis, understand key principles of sampling, and select appropriate tests of significance for multiple contexts. You will gain the foundational skills that prepare you to pursue more advanced topics in statistical thinking and machine learning. | [link](https://www.coursera.org/learn/stanford-statistics) |
+
 <!--|  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |
 |  | Coursera |  | [link]() |-->
