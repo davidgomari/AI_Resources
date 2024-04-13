@@ -111,6 +111,7 @@
 | Flask | Flask Blog Tutorial | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nK0Pyubp7yIG0RdXp6zklu) | |
 | Flask | Flask Tutorials | Tech With Tim | 2021 | [link](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) | |
 | Flask | CS50x 2024 - Lecture 9 - Flask | CS50 | 2024 | [link](https://www.youtube.com/watch?v=-aqUek49iL8&list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&index=11) | |
+| Backend | Learn Python Backend Development by Building 3 Projects | freeCodeCamp.org | 2024 | [link](https://www.youtube.com/watch?v=ftKiHCDVwfA) | | 
 | Pandas | Data analysis in Python with pandas | Data School | 2016 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y) | |
 | Pandas | Pandas Tutorials | Corey Schafer | 2020 | [link](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) | |
 | Pandas | Pandas Tutorial (Data Analysis In Python) | codebasics | 2017 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) | |
