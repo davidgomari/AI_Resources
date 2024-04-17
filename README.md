@@ -67,7 +67,7 @@
 | ML | Machine Learning with Python | Sentdex | 2016 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) | |
 | ML | Scikit-learn Machine Learning with Python and SKlearn | Sentdex | 2015 | [link](https://www.youtube.com/playlist?list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3) | |
 | ML | ML in Python with scikit-learn | Data School | 2015 | [link](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A) | |
-| ML | Intro to Machine Learning and Statistical Pattern Classification Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3) | |
+| ML | Intro to Machine Learning and Statistical Pattern Classification Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3) | 3/95 |
 | ML | Intelligence and Learning | The Coding Train | 2018 | [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX) | |
 | ML | ML For Beginners | codebasics | 2018 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | |
 | DL | Neural Networks: Zero to Hero | Andrej Karpathy | 2022 | [link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | |
