@@ -47,7 +47,7 @@
 | RL | Stanford | CS234: RL | 2019 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | ~ | |
 | RL | DeepMind x UCL | RL | 2015-2021 | [2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb), and [2021 (youtube playlist name is wrong)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | ~ | |
 | RL | UC Berkeley | CS 285: Deep Reinforcement Learning | 2020-2023 | [2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) and [2023](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | [link](https://rail.eecs.berkeley.edu/deeprlcourse/) | |
-| CV | Stanford | CS231N: DL for CV | 2017 | [link](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | ~ | |
+| CV | Stanford | CS231N: DL for CV | 2016-2017 | [2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [2017](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | ~ | |
 | CV | Michigan Online | DL for CV | ~ | [link](https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | ~ | |
 | CV | University of Central Florida | CV | 2014 | [link](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) | ~ | |
 | CV | University of Tübingen | CV | 2023 | [link](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | [link](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | |
@@ -70,6 +70,7 @@
 | ML | Intro to Machine Learning and Statistical Pattern Classification Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3) | 3/95 |
 | ML | Intelligence and Learning | The Coding Train | 2018 | [link](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX) | |
 | ML | ML For Beginners | codebasics | 2018 | [link](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) | |
+| DL | Neural networks | 3Blue1Brown | 2018 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | |
 | DL | Neural Networks: Zero to Hero | Andrej Karpathy | 2022 | [link](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) | |
 | DL | Intro to Deep Learning and Generative Models Course | Sebastian Raschka | 2021 | [link](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) | |
 | DL | Neural Networks/ Deep Learning | StatQuest with Josh Starmer | 2022 | [link](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) | |
