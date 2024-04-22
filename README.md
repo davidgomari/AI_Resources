@@ -268,7 +268,7 @@ Sentdex website: [click here](https://pythonprogramming.net/)
 | Yannic Kilcher | YouTube Playlist | Explaining Research Papers in a short video | [Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7), [NLP](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu), [RL](https://www.youtube.com/playlist?list=PL1v8zpldgH3rJk6UKP_npByDuE7v1WSdt), and [DL Architecture](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp) |
 | diar.ai ML Papers of The Week | GitHub | At DAIR.AI we ❤️ reading ML papers so we've created this repo to highlight the top ML papers of every week. | [GitHub Repo](https://github.com/dair-ai/ML-Papers-of-the-Week) and [WebPage](https://dair.ai/) |
 | labml.ai Deep Learning Paper Implementations | Code & Text | This is a collection of simple PyTorch implementations of neural networks and related algorithms. These implementations are documented with explanations, The website renders these as side-by-side formatted notes. We believe these would help you understand these algorithms better. | [WebPage](https://nn.labml.ai/) and [Github Repo](https://github.com/labmlai/annotated_deep_learning_paper_implementations) |
-
+| Papers With Code | Website | The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables. | [web](https://paperswithcode.com/) and [github](https://github.com/paperswithcode) |
 
 ## Tutorials from its Creators
 1. [Scikit-Learn Tutorials](https://scikit-learn.org/stable/tutorial/)
@@ -293,7 +293,7 @@ Watching the people learning these same materials with you.
 ## Online Books
 | **Name** | **Author(s)** | **Description** | **Link(s)** |
 |:--------:|:-------------:|:---------------:|:-----------:|
-} ML for Trading - 2nd Edition | Stefen Jansen | This book aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques from linear regression to deep reinforcement learning and demonstrates how to build, backtest, and evaluate a trading strategy driven by model predictions. | [github](https://github.com/stefan-jansen/machine-learning-for-trading) |
+| ML for Trading - 2nd Edition | Stefen Jansen | This book aims to show how ML can add value to algorithmic trading strategies in a practical yet comprehensive way. It covers a broad range of ML techniques from linear regression to deep reinforcement learning and demonstrates how to build, backtest, and evaluate a trading strategy driven by model predictions. | [github](https://github.com/stefan-jansen/machine-learning-for-trading) |
 
 
 
@@ -302,9 +302,10 @@ Watching the people learning these same materials with you.
 1. [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python): This curated list contains 920 awesome open-source projects with a total of 4.3M stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an issue, submit a pull request, or directly edit the projects.yaml. Contributions are very welcome!
 2. [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning): Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. The purpose of this repository is not to implement machine learning algorithms by using 3rd party library one-liners but rather to practice implementing these algorithms from scratch and get better understanding of the mathematics behind each algorithm. That's why all algorithms implementations are called "homemade" and not intended to be used for production.
 
+## Other Lists
+1. [Technical Coursesem Books, and Tutorials on AI, DL, and ML for AI Developers](https://openshiro.com/articles/technical-courses-books-and-tutorials-on-artificial-intelligence-deep-learning-and-machine-learning-for-ai-developers)
 
-## Recommended Books
-### ML
+## Books
 1. [An Introduction to Statistical Learning with application in Python/R](https://www.statlearning.com/)
 
 
