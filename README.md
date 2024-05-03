@@ -159,6 +159,7 @@
 | Math | The essence of calculus | 3Blue1Brown | 2017 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | |
 | Math | Differential equations | 3Blue1Brown | 2021 | [link](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6) | |
 | Math | Linear Algebra | Derek Banas | 2020 | [link](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQNOt6xlugFm3LmTYo5g_7i) and [link2](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ_hHKxblsjZhfT9Pc4X8CO) | |
+| Math | Mathematics for ML: Linear Algebra | My CS | 2020 | [link](https://youtu.be/tVQZvJwi-ec?si=uPrNxNO-H7NTGUUn) | |
 | Data Structures | Data Structures Easy to Advanced Course | freeCodeCamp.org | 2019 | [link](https://www.youtube.com/watch?v=RBSGKlAvoiM) | |
 | Data Structures | Redis for Beginners | Net Ninja | 2023 | [link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h3V2eqhi8rRdIDJshP-b4P) | |
 | Data Structures | Redis Explained | Redis | 2021 | [link](https://www.youtube.com/playlist?list=PL83Wfqi-zYZHtpd4Glbj-NBIz7RB0Jw5u) | |
