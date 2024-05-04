@@ -187,6 +187,7 @@ Sentdex website: [click here](https://pythonprogramming.net/)
 
 ## Channels to Check
 1. Jie Jenn: [link](https://www.youtube.com/@jiejenn/playlists)
+2. Professor Leonard: teaching Math [link](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
 
 ## Tech Companies Courses
 | **Offered by** | **Course Name(s)** | **Links** | **OK** | 
