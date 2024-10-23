@@ -47,6 +47,7 @@
 | RL | Stanford | CS234: RL | 2019 | [link](https://youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | ~ | |
 | RL | DeepMind x UCL | RL | 2015-2021 | [2015](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ), [2018](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb), and [2021 (youtube playlist name is wrong)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | ~ | |
 | RL | UC Berkeley | CS 285: Deep Reinforcement Learning | 2020-2023 | [2020](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) and [2023](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps) | [link](https://rail.eecs.berkeley.edu/deeprlcourse/) | |
+| CV | UC Berkeley | CS 198-126: Deep Learning for Visual Data | 2022-2024 | [2022](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5), [2023](https://www.youtube.com/playlist?list=PLkR6yQwdVY-4YwMfNEHiAB0fv6BsVsCVq), [2024](https://drive.google.com/drive/folders/1Gv8mU4RNhehDu16zjRZAmnkgLIHhfnc5) | [web](https://ml-berkeley.notion.site/CS-198-126-Deep-Learning-for-Visual-Data-a57e2aca54c046edb7014439f81ba1d5) | |
 | CV | Stanford | CS231N: DL for CV | 2016-2017 | [2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC), [2017](https://youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk) | [2017](https://cs231n.stanford.edu/2017/syllabus.html), [2024](https://cs231n.stanford.edu/schedule.html) | |
 | CV | Michigan Online | DL for CV | ~ | [link](https://youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) | [link](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) | |
 | CV | University of Central Florida | CV | 2014 | [link](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) | ~ | |
@@ -58,8 +59,9 @@
 | Math | Stanford | CS109 Introduction to Probability for Computer Scientists | 2023 | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) | [link](https://web.stanford.edu/class/archive/cs/cs109/cs109.1232/) | |
 | Math | Stanford | EE364A Convex Optimization | 2021-2024 | [2021 covid](https://www.youtube.com/playlist?list=PLoCMsyE1cvdXeoqd1hGaMBsCAQQ6otUtO) ,[2024](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) | [link](https://web.stanford.edu/class/ee364a/index.html) | |
 | Math | University of Tübingen | Math for Deep Learning | 2022 | [link](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm) | [link](https://uni-tuebingen.de/de/241678) | |
-| Data | Stanford | CS246 Mining Massive Data Sets | 2016-2020 | [yt-2016](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV), [yt-2020](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR) | ~ | ~ |
+| Big Data | Stanford | CS246 Mining Massive Data Sets | 2016-2020 | [yt-2016](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV), [yt-2020](https://www.youtube.com/playlist?list=PLoCMsyE1cvdVnCgHk43vRy7PVTVWJ6WVR) | [mmds](http://www.mmds.org/), [stanford web](https://web.stanford.edu/class/cs246/) | ~ |
 | Other | Stanford | CS25 Transformers United | ~ | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) | ~ | |
+| Other | Stanford | CS236: Deep Generative Models | 2023 | [youtu](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) | [web lin](https://deepgenerativemodels.github.io/) | |
 
 ## YouTube Channels Playlists
 | **Topic** | **Playlist Name** | **Channel Name** | **Year** | **Youtube Link** | **OK** |
